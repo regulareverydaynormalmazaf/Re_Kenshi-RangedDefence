@@ -1,0 +1,23 @@
+{
+  "enabled": true,
+  "selection_mode": 0,
+  "allow_block_fallback": true,
+  "chance_multiplier": 1.0,
+  "xp_enabled": true,
+  "heavy_category": 3,
+  "unarmed_can_block": false,
+  "dodge_lock_ms": 500,
+  "block_lock_ms": 900,
+  "skip_while_attacking": true,
+  "defend_while_in_melee": true,
+  "play_animations": false,
+  "debug_logging": false,
+  "lock_on_success": false,
+  "turret_mode": 0,
+  "use_weapon_weight": false,
+  "heavy_weight": 10,
+  "cooldown_enabled": true,
+  "dodge_anim": "dodgeback",
+  "block_anim": "",
+  "language": "auto"
+}
