@@ -6,8 +6,7 @@ rolled with the game's own combat formulas against the shooter's skill (not a fl
 Fully configurable via the in‑game **Mod Hub** or `mod-config.json`.
 
 **Download, screenshots and full description:** 
-Nexus: [RangedDefence](https://www.nexusmods.com/kenshi/mods/2135?tab=description)
-Steam: [RangedDefence](https://steamcommunity.com/sharedfiles/filedetails/?id=3792646841)
+[Nexus](https://www.nexusmods.com/kenshi/mods/2135?tab=description) / [Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3792646841)
 
 Fully supported on **Steam** and **GOG** Kenshi **1.0.65**
 
