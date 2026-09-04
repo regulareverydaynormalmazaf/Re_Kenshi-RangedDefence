@@ -7,6 +7,7 @@ Fully configurable via the in‑game **Mod Hub** or `mod-config.json`.
 
 **Download, screenshots and full description:** 
 Nexus: [RangedDefence](https://www.nexusmods.com/kenshi/mods/2135?tab=description)
+Steam: [RangedDefence](https://steamcommunity.com/sharedfiles/filedetails/?id=3792646841)
 
 Fully supported on **Steam** and **GOG** Kenshi **1.0.65**
 
